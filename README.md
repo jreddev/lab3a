@@ -72,3 +72,4 @@ For the web design principles, you will receive 2 points for each for
 spacing, typography, color, consistency, and responsive design. We
 will subtract 1 point for a principle if you need some work, 2 points
 if you need a lot of work.
+"# lab2" 
